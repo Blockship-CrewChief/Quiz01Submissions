@@ -1,7 +1,7 @@
 # Challenge 1 __SOLIDITY__
 
 ### Airline Ticket Manager
-_Let’s get started on building your very first solidity program_
+_Let’s get started on building your very first solidity program._
 
 We will be making a fun Airline Ticket Booking program. The rest of the challenges of this series will continue adding to this base. So let’s get started!
 ```
