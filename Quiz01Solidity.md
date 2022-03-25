@@ -44,3 +44,6 @@ _Next up are modifiers._
   Task 06: Make a parent contract that has the ability to deploy child contracts 
   (This function should implement the modifier you made in ‘Task 05’).
 ```
+
+### Syntax Errors
+_Find the syntax errors in this code snippets present in the file below named [Code-Snippets.pdf](https://github.com/Blockship-CrewChief/Quiz01Submissions/blob/main/Code-Snippets.pdf "Code Snippets File")_
