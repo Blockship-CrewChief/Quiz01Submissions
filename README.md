@@ -12,8 +12,8 @@ We will be making a fun Airline Ticket Booking program. The rest of the challeng
 ```
 
 ```  
-  Task 02: You also need to add the option for the user to choose one of the three classes (first class, business, and economy) and store it with the
-  previous information.  
+  Task 02: You also need to add the option for the user to choose one of the three classes (first class, business, and economy) 
+  and store it with the previous information.  
   (Hint: There is a special data type you can use to solve this trick in a jiffy!)
 ```
 
