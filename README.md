@@ -1,6 +1,4 @@
-# Kindly submit seperate files for each task of the first quiz
-
-## Challenge 1 __SOLIDITY__
+# Challenge 1 __SOLIDITY__
 
 ### Airline Ticket Manager
 _Let’s get started on building your very first solidity program_
