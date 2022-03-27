@@ -4,7 +4,7 @@
 ## Instructions For Submission
 * On the github screen, at the top right corner, select the dropdown with + (plus) sign and select `Import Repository`
 * Fill in the Link URL: `https://github.com/Blockship-CrewChief/Quiz01Submissions`
-* Typoe the repository name: e.g. `DiscordName-DiscordID-Quiz01`
+* Type the repository name: e.g. `DiscordName-DiscordID-Quiz01`
 * Set the visibility as `private`
 * Upload the _Syntax-Errors Findings_ in a seperate file 
     * Name the file as `Code-Snippets-Solutions.pdf` 
